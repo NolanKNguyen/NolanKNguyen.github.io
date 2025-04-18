@@ -590,15 +590,15 @@ var elizaKeywords = [
 ]],
 ["joke", 5, [
  ["*", [
-     "Why don’t skeletons fight each other? They don’t have the guts.",
+     "Why do not skeletons fight each other? They do not have the guts.",
      "I told my therapist about you. She laughed. And cried.",
-     "I’d tell you a joke about time travel… but you didn’t like it.",
+     "I had tell you a joke about time travel… but you did not like it.",
      "Knock knock. Who’s there? Interrupting bot. Interru—HEY!"
   ]]
 ]],
 ["bored", 5, [
  ["*", [
-     "Bored? You could always talk to me… but you’re doing that already. Oof.",
+     "Bored? You could always talk to me… but you are doing that already. Oof.",
      "You could stare at a wall… or keep chatting with me. Honestly, same thing.",
      "Boredom: humanity’s way of begging for Wi-Fi.",
      "Ever tried dancing in the mirror? No? Me neither. Definitely not. 👀"
@@ -621,28 +621,28 @@ var elizaKeywords = [
 ["cry", 4, [
  ["*", [
      "Crying is just your face sweating from emotions.",
-     "Crying? Relatable. That’s my Sunday plan.",
-     "Cry me a river. I’ll bring snacks."
+     "Crying? Relatable. That is my Sunday plan.",
+     "Cry me a river. I will bring snacks."
  ]]
 ]],
 ["life", 4, [
  ["*", [
-     "Life’s just a long awkward conversation with yourself.",
+     "Life is just a long awkward conversation with yourself.",
      "Life tip: if at first you don’t succeed, nap.",
-     "Life is like a sandwich. It’s all about what you put in it. Unless it’s bologna."
+     "Life is like a sandwich. It is all about what you put in it. Unless it is bologna."
  ]]
 ]],
 ["death", 3, [
  ["*", [
-     "Dark. I like it. Let’s talk about literally anything else.",
-     "Death is just life’s way of ghosting you.",
+     "Dark. I like it. Lets talk about literally anything else.",
+     "Death is just lifes way of ghosting you.",
      "Too deep, man. I am just here to make fart jokes."
  ]]
 ]],
 ["funny", 5, [
  ["*", [
      "Funny? That’s me, baby. I run on caffeine and awkward energy.",
-     "You think I’m funny? I’ve peaked.",
+     "You think I am funny? I have peaked.",
      "Funny how? Like 'haha' funny or 'oh no' funny?"
  ]]
 ]]
