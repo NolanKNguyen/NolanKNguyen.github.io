@@ -80,3 +80,22 @@ img {
   padding: 0px;
 
 }
+iframe.game {
+  padding-left: 5%;
+  flex-grow: 2;
+	border: none;
+  margin-top: -1%
+}
+
+div.game {
+	display: flex;
+	flex-flow: row;
+  height: 100%
+}
+
+img {
+  border: 5px solid #ddd;
+  border-radius: 15px;
+  padding: 0px;
+
+}
