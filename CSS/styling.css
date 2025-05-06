@@ -99,3 +99,8 @@ img {
   padding: 0px;
 
 }
+section { display: flex;
+flex-flow: column;
+height: 100%
+
+}
