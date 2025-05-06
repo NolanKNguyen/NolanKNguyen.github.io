@@ -99,7 +99,7 @@ img {
   padding: 0px;
 
 }
-section { display: flex;
+section.game { display: flex;
 flex-flow: column;
 height: 100%
 
