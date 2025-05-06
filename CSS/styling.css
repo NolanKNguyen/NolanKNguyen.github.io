@@ -89,7 +89,7 @@ iframe.game {
 
 div.game {
 	display: flex;
-  flex-flow: column;
+  flex-flow: row;
   height: 100%
 }
 
@@ -97,10 +97,5 @@ img {
   border: 5px solid #ddd;
   border-radius: 15px;
   padding: 0px;
-
-}
-section.game { display: flex;
-flex-flow: column;
-height: 100%
 
 }
