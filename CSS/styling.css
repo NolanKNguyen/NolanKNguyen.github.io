@@ -89,7 +89,7 @@ iframe.game {
 
 div.game {
 	display: flex;
-	flex-flow: row;
+  flex-flow: column;
   height: 100%
 }
 
